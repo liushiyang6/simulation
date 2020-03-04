@@ -1,0 +1,12 @@
+simulationFile:
+  path: D:\bbd\simulation\src\main\resources\
+  ic: ${simulationFile.path}\1
+  ec: ${simulationFile.path}\1
+  btm_yesno: ${simulationFile.path}\1
+  eg: ${simulationFile.path}\1
+  rp: ${simulationFile.path}\1
+  tongdun: ${simulationFile.path}\1
+  rec: ${simulationFile.path}\1
+  tx: ${simulationFile.path}\1
+server:
+  port: 7878
